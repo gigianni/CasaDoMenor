@@ -1,5 +1,5 @@
 # Casa Do Menor project
-This is a project made for [Casa do Menor](https://casadomenor.org/?lang=en) not for profit organization, by me and my two former classmates Serravite Lorenzo and Pepe Francesco at I.I.S. G. Vallauri for our high school diploma thesis. 
+This is a project made for [Casa do Menor](https://casadomenor.org/?lang=en) non-profit organization, by me and my two former classmates Serravite Lorenzo and Pepe Francesco at I.I.S. G. Vallauri for our high school diploma thesis. 
 
 The files hosted in this repository are not in their final form, because the project is still maintained by newer students which are improving its functionalities and resolving the pending issues.
 
