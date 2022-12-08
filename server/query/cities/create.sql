@@ -1,0 +1,6 @@
+CREATE TABLE cities( 
+	zipcode VARCHAR(9) NOT NULL PRIMARY KEY, 
+	name VARCHAR(256), 
+	state VARCHAR(5),
+	FOREIGN KEY (state) REFERENCES states(code) ON UPDATE CASCADE 
+);

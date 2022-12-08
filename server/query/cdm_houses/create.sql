@@ -1,0 +1,7 @@
+CREATE TABLE cdm_houses(
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(256) NOT NULL,
+    address VARCHAR(512) NOT NULL,
+    city VARCHAR(9) NOT NULL,
+    FOREIGN KEY (city) REFERENCES cities(zipcode)
+);
